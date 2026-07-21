@@ -90,4 +90,4 @@ cd legal-ai-assistant
 ## 📝 License
 This project is for educational and experimental purposes. The provided legal text is the Egyptian Penal Code, widely available in the public domain.
 
-Made with ❤️ by AI.
+Made with ❤️ by Moaaz.
