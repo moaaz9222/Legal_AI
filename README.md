@@ -1,7 +1,5 @@
 # ⚖️ Legal AI Assistant — المساعد القانوني الذكي
 
-![Hero Image](https://images.unsplash.com/photo-1589829085413-56de8ae18c73?auto=format&fit=crop&w=1200&q=80)
-
 > A state-of-the-art **RAG (Retrieval-Augmented Generation)** application designed specifically for the **Egyptian Penal Code (قانون العقوبات المصري)**. It acts as an AI-powered legal assistant that can instantly answer complex legal questions, cite specific articles, and maintain conversational memory.
 
 ---
